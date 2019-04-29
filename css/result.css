@@ -1,0 +1,218 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+h2{
+background-color:#f7f7f7;
+border: 3px solid gray;
+padding: 30px 35px;
+margin: 10px 10px;
+text-align:center;
+border-radius: 8px 8px 8px 8px;
+}
+
+hs{
+background-color: #101B2D;
+  display: block;
+padding: 20px 30px;
+height:80px;
+    font-size: 2em;
+border: 3px solid gray;
+    margin-top: 10px;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+border-radius: 8px 8px 8px 8px;
+text-align:center;
+color: white;
+
+}
+
+div.main{
+width: 200px;
+padding: 100px 475px 50px;
+border: 5px solid black;
+border-radius: 10px;
+font-family: ariel;
+margin-left:170;
+ margin-top:10px;
+}
+label{
+	display:block;
+color: #008080;
+font-size: 50px;
+font-weight: bold;
+padding: 20px 30px;
+text-align:Center;
+}
+
+
+input[type=button]
+{
+position:relative;
+font-size: 25px;
+background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+border: 5px solid #e5a900;
+color: #00FFFF;
+font-weight: bold;
+cursor: pointer;
+width:50%;
+border-radius: 2px;
+padding: 10px 20px 5px;
+outline:none;
+bottom: -10px;
+ left: 90%;
+    }
+input[type=button]:hover
+{
+background: linear-gradient(#FF00FF 5%, #ffbc00 100%);
+}
+
+
+
+
+
+@media only screen and (min-width: 768px) {
+	h2{
+background-color:#f7f7f7;
+border: 3px solid gray;
+padding: 30px 35px;
+margin: 10px 10px;
+text-align:center;
+border-radius: 8px 8px 8px 8px;
+}
+
+hs{
+background-color: #101B2D;
+  display: block;
+padding: 20px 30px;
+height:80px;
+    font-size: 2em;
+border: 3px solid gray;
+    margin-top: 10px;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+border-radius: 8px 8px 8px 8px;
+text-align:center;
+color: white;
+
+}
+
+div.main{
+width: 200px;
+padding: 100px 475px;
+border: 5px solid black;
+border-radius: 10px;
+font-family: ariel;
+margin-left:170;
+ margin-top:10px;
+}
+label{
+	display:block;
+color: #008080;
+font-size: 50px;
+font-weight: bold;
+padding: 20px 30px;
+text-align:Center;
+}
+
+
+input[type=button]
+{
+position:relative;
+font-size: 25px;
+background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+border: 5px solid #e5a900;
+color: #00FFFF;
+font-weight: bold;
+cursor: pointer;
+width:50%;
+border-radius: 2px;
+padding: 10px 20px 5px;
+outline:none;
+bottom: -10px;
+ left: 90%;
+    }
+input[type=button]:hover
+{
+background: linear-gradient(#FF00FF 5%, #ffbc00 100%);
+}
+
+}
+
+
+
+@media only screen and (min-width: 1000px) {
+	h2{
+background-color:#f7f7f7;
+border: 3px solid gray;
+padding: 30px 35px;
+margin: 10px 10px;
+text-align:center;
+border-radius: 8px 8px 8px 8px;
+}
+
+hs{
+background-color: #101B2D;
+  display: block;
+padding: 20px 30px;
+height:80px;
+    font-size: 2em;
+border: 3px solid gray;
+    margin-top: 10px;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+border-radius: 8px 8px 8px 8px;
+text-align:center;
+color: white;
+
+}
+
+div.main{
+width: 200px;
+padding: 100px 475px 50px;
+border: 5px solid black;
+border-radius: 10px;
+font-family: ariel;
+margin-left:170;
+ margin-top:10px;
+}
+label{
+	display:block;
+color: #008080;
+font-size: 50px;
+font-weight: bold;
+padding: 20px 30px;
+text-align:Center;
+}
+
+
+input[type=button]
+{
+position:relative;
+font-size: 25px;
+background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+border: 5px solid #e5a900;
+color: #00FFFF;
+font-weight: bold;
+cursor: pointer;
+width:50%;
+border-radius: 2px;
+padding: 10px 20px 5px;
+outline:none;
+bottom: -10px;
+ left: 90%;
+    }
+input[type=button]:hover
+{
+background: linear-gradient(#FF00FF 5%, #ffbc00 100%);
+}
+}

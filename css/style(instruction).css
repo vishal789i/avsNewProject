@@ -1,0 +1,89 @@
+html {
+  scroll-behavior: smooth;
+}
+body
+{
+	margin:0;
+	padding:0;
+	background-color:white;
+	background-size:cover;
+	font-family:sans-serif;
+}
+h2{
+background-color:#af6a0f;
+border: 3px solid black;
+padding: 30px 35px;
+margin: 10px 10px;
+text-align:center;
+border-radius: 8px 8px 8px 8px;
+}
+hs{
+background-color:#af6a0f;
+    display: block;
+padding: 20px 30px;
+    font-size: 1.5em;
+border: 3px solid black;
+    font-weight: bold;
+border-radius: 8px 8px 8px 8px;
+}
+
+hr{
+margin: 10px -50px;
+border: 0;
+border-top: 1px solid #ccc;
+margin-bottom: 40px;
+}
+
+
+div.block{
+width:800px;
+height:50px;
+margin:10px auto;
+font-family: 'Raleway', sans-serif;
+}
+div.act{
+width: 700px;
+height:500px;
+padding: 15px 90px 15px;
+border: 3px solid gray;
+border-radius: 20px;
+font-family: ariel;
+font-size:25px;
+float:center;
+margin-top:85px;
+}
+
+
+.note{
+color:red;
+}
+
+
+
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  float:right;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 10px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
